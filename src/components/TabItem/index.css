@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.tabItem {
+  outline: none;
+  border-radius: 0px;
+  border-color: transparent;
+  font-family: 'Roboto';
+  font-weight: bold;
+  list-style-type: none;
+}
+.tab-item-con {
+  list-style-type: none;
+}
